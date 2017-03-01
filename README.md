@@ -1,5 +1,5 @@
 
-# Super Mario Run for Windows Phone
+# Super Mario Run for Windows
 A Super Mario Run "port" created in GML to Windows Phone.
 .
 # Warning
