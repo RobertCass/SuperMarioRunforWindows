@@ -1,4 +1,3 @@
-
 # Super Mario Run for Windows
 A Super Mario Run "port" created in GML to Windows Phone.
 .
@@ -10,3 +9,6 @@ For the people that doesn't have a Android or a iOS Device, I am launching Super
 
 # Changelog
 v1.0 - Initial Release
+
+# Credits
+Thanks to RandomTakingBush for the New Super Mario Bros. U assets (Super Mario Maker)
